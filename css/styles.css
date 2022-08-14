@@ -994,6 +994,7 @@ footer li:hover {
 
     input.search-field {
         padding-right: 20px;
+        width: 100%;
     }
 
     .button.search {
